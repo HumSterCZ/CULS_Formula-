@@ -1,0 +1,3 @@
+Hlavní soubory C++ naleznete v souboru SRC
+Header soubory jsou v Include 
+Použité programové prostředí VS code s rozšířením Platformio.ino pro snadnější programování. 
