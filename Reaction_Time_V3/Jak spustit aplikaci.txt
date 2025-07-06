@@ -1,0 +1,11 @@
+1) Vyextrahuj .rar soubor 
+2) Otevři složku C:\Users\----\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug
+3) Připoj tlačítkový stolek
+3) Spusť soubor Formula Reaction Time V3.exe (Aplikace) 
+4) Hra se ovládá tlačítky nebo stiskem F11 a F 12
+5) Přesuň na požadovaný monitor přichycením horní lišty
+6) Maximalizuj okno tlačítkem vedle zavírání okna
+
+DEBUG:
+Pokud hra nefunguje klikni na semafor
+Pokud stále nefunguje udělej restart PC - Odpoj a připoj tlačítka 

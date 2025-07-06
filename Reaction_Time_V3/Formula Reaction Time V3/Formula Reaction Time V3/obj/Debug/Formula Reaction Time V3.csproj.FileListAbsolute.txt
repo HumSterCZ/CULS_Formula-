@@ -1,0 +1,42 @@
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe.config
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.pdb
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.AssemblyReference.cache
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula_Reaction_Time_V3.Form1.resources
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula_Reaction_Time_V3.Properties.Resources.resources
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.GenerateResource.cache
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.CoreCompileInputs.cache
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.exe
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.pdb
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe.manifest
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.application
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.exe.manifest
+C:\Users\tomkr\Desktop\Škola\Formule\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.application
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe.config
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe.manifest
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.application
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.pdb
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.AssemblyReference.cache
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula_Reaction_Time_V3.Form1.resources
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula_Reaction_Time_V3.Properties.Resources.resources
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.GenerateResource.cache
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.CoreCompileInputs.cache
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.exe.manifest
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.application
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.exe
+C:\Users\tomkr\Desktop\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.pdb
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe.config
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe.manifest
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.application
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.exe
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\bin\Debug\Formula Reaction Time V3.pdb
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.AssemblyReference.cache
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula_Reaction_Time_V3.Form1.resources
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula_Reaction_Time_V3.Properties.Resources.resources
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.GenerateResource.cache
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.csproj.CoreCompileInputs.cache
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.exe.manifest
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.application
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.exe
+C:\Users\tomkr\Škola\Formule\Reaction_Time_V3\Formula Reaction Time V3\Formula Reaction Time V3\obj\Debug\Formula Reaction Time V3.pdb
